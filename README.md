@@ -4,6 +4,9 @@
 
 > Meet your mentors and fellow students and get your laptop ready for the day.
 
+All attendees go to <http://bit.ly/laptop-setup> and start setting up while
+mentors go around to see if anyone got stuck.
+
 ### 10:30 am to 11:30 / Introduction to Free Software Tools
 
 > Aims to answer the question “What is Open Source?” Aims to familiarize students
