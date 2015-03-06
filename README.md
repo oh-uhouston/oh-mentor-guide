@@ -18,7 +18,12 @@ mentors go around to see if anyone got stuck.
 > with tools like IRC, issue trackers, mailing lists, and version control through
 > several activities.
 
+Watch the tools video:
+
+[<img src="https://i.ytimg.com/vi/yWCH8nos97w/0.jpg" width="200px"/>](https://www.youtube.com/watch?v=yWCH8nos97w)
+
 [<img src="img/communications_handout.png" width="200px"/>](https://rawgit.com/openhatch/open-source-comes-to-campus/master/curriculum/handouts/Communications_Handout.pdf)
+
 
 ### 11:30 pm to 12:00 pm / Hands On Git
 
