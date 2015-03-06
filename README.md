@@ -61,9 +61,24 @@ Watch the tools video:
 
 [<img src="img/walkthrough.png" width="200px">](https://rawgit.com/openhatch/open-source-comes-to-campus/master/curriculum/handouts/walkthrough.pdf)
 
-Ideas:
+What are some kinds of contributions can you make?
 
-- [improving install instructions](http://openhatch.github.io/open-source-comes-to-campus/lessons/newcomer-tasks/setup/)
-- [reproducing bugs](https://openhatch.org/w/index.php?title=Open_Source_Comes_to_Campus/Newcomer_Tasks/Issue_Tracker_Cleaning)
-- [increasing accessibility of websites)](http://openhatch.github.io/open-source-comes-to-campus/lessons/newcomer-tasks/accessibility/)
+ - [improving install instructions](http://openhatch.github.io/open-source-comes-to-campus/lessons/newcomer-tasks/setup/)
+ - [reproducing bugs](https://openhatch.org/w/index.php?title=Open_Source_Comes_to_Campus/Newcomer_Tasks/Issue_Tracker_Cleaning)
+ - [increasing accessibility of websites)](http://openhatch.github.io/open-source-comes-to-campus/lessons/newcomer-tasks/accessibility/)
+ - Documentation
+ - User interface design
+ - Code review
+ - Logos and branding
+ - Translation
+ - Quality assurance
+ - Sysadmining
+   - Website management
+ - Legal advice
+ - User support
+ - Publicity
+ - Testing
+ - Community management
+ - Creating tutorials
+ - ... and, yes, coding.
 
