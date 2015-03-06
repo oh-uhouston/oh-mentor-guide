@@ -2,7 +2,8 @@
 
 ### Sign in
 
-![](img/sign_in_sheet.png)
+[<img src="img/sign_in_sheet.png" width="100px"/>](https://rawgit.com/openhatch/open-source-comes-to-campus/master/curriculum/handouts/sign_in_sheet.odt)
+
 
 ### 10:00 am to 10:30 / Laptop Setup and Introductions
 
@@ -17,7 +18,7 @@ mentors go around to see if anyone got stuck.
 > with tools like IRC, issue trackers, mailing lists, and version control through
 > several activities.
 
-![](img/communications_handout.png)
+[<img src="img/communications_handout.png" width="100px"/>](https://rawgit.com/openhatch/open-source-comes-to-campus/master/curriculum/handouts/Communications_Handout.pdf)
 
 ### 11:30 pm to 12:00 pm / Hands On Git
 
@@ -25,7 +26,7 @@ mentors go around to see if anyone got stuck.
 > developers to collaborate on large software projects. A brief workshop will
 > introduce students to the use of this tool.
 
-![](img/practicing_git_student_handout.png)
+[<img src="img/practicing_git_student_handout.png" width="100px"/>](https://rawgit.com/openhatch/open-source-comes-to-campus/master/curriculum/handouts/Practicing_Git_Student_Handout.pdf)
 
 ### 12:00 pm to 1:00 pm / Lunch Break
 
@@ -38,5 +39,6 @@ mentors go around to see if anyone got stuck.
 > contributing solutions. Project leads and mentors will be available to provide
 > assistance throughout the workshop.
 
-![](img/finding_projects_handout.png)
+[<img src="img/finding_projects_handout.png" width="100px"/>](https://rawgit.com/openhatch/open-source-comes-to-campus/master/curriculum/handouts/FindingProjects_Student_Handout.odt)
 
+[<img src="img/walkthrough.png" width="100px">](https://rawgit.com/openhatch/open-source-comes-to-campus/master/curriculum/handouts/walkthrough.pdf)
