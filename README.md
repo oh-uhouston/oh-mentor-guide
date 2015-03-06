@@ -42,6 +42,13 @@ Watch the tools video:
 
 | [Students](https://openhatch.org/wiki/Open_Source_Comes_to_Campus/Practicing_Git/Students) | [Instructors](https://openhatch.org/wiki/Open_Source_Comes_to_Campus/Practicing_Git/Instructors) |
 
+1. [Mentor 1](https://github.com/oh-uhouston-1): website <https://oh-uhouston-1.github.io/>
+2. [Mentor 2](https://github.com/oh-uhouston-2): website <https://oh-uhouston-2.github.io/>
+3. [Mentor 3](https://github.com/oh-uhouston-3): website <https://oh-uhouston-3.github.io/>
+4. [Mentor 4](https://github.com/oh-uhouston-4): website <https://oh-uhouston-4.github.io/>
+5. [Mentor 5](https://github.com/oh-uhouston-5): website <https://oh-uhouston-5.github.io/>
+6. [Mentor 6](https://github.com/oh-uhouston-6): website <https://oh-uhouston-6.github.io/>
+
 ### 12:00 pm to 1:00 pm / Lunch Break
 
 > Lunch will be provided. Vegetarian, vegan, and other dietary options will be
