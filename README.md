@@ -1,5 +1,9 @@
 ## Schedule
 
+### Sign in
+
+![](img/sign_in_sheet.png)
+
 ### 10:00 am to 10:30 / Laptop Setup and Introductions
 
 > Meet your mentors and fellow students and get your laptop ready for the day.
@@ -13,11 +17,15 @@ mentors go around to see if anyone got stuck.
 > with tools like IRC, issue trackers, mailing lists, and version control through
 > several activities.
 
+![](img/communications_handout.png)
+
 ### 11:30 pm to 12:00 pm / Hands On Git
 
 > Git is a powerful version control language that allows distributed teams of
 > developers to collaborate on large software projects. A brief workshop will
 > introduce students to the use of this tool.
+
+![](img/practicing_git_student_handout.png)
 
 ### 12:00 pm to 1:00 pm / Lunch Break
 
@@ -30,4 +38,5 @@ mentors go around to see if anyone got stuck.
 > contributing solutions. Project leads and mentors will be available to provide
 > assistance throughout the workshop.
 
+![](img/finding_projects_handout.png)
 

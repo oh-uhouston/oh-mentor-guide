@@ -5,3 +5,7 @@ cd "$CURDIR"
 
 git clone https://github.com/openhatch/open-source-comes-to-campus
 get_flash_videos 'https://www.youtube.com/watch?v=yWCH8nos97w'
+cp -p "open-source-comes-to-campus/curriculum/handouts/OpenHatch Comes to Campus - Sign In.pdf"
+
+echo "1) Create GitHub organisations: oh-uhouston-1, oh-uhouston-2, oh-uhouston-3, oh-uhouston-4"
+echo "2) Now open open-source-comes-to-campus/scripts/README.md and follow the instructions"
