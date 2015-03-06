@@ -1,9 +1,10 @@
 ## Schedule
 
+[Guide for mentors](https://github.com/openhatch/open-source-comes-to-campus/blob/master/logistics/mentors/guide.md)
+
 ### Sign in
 
 [<img src="img/sign_in_sheet.png" width="200px"/>](https://rawgit.com/openhatch/open-source-comes-to-campus/master/curriculum/handouts/sign_in_sheet.odt)
-
 
 ### 10:00 am to 10:30 / Laptop Setup and Introductions
 
@@ -18,11 +19,15 @@ mentors go around to see if anyone got stuck.
 > with tools like IRC, issue trackers, mailing lists, and version control through
 > several activities.
 
+[What is open-source](http://openhatch.github.io/open-source-comes-to-campus/lessons/what-is-open-source/self-guided.html)
+
 Watch the tools video:
 
 [<img src="https://i.ytimg.com/vi/yWCH8nos97w/0.jpg" width="200px"/>](https://www.youtube.com/watch?v=yWCH8nos97w)
 
-[<img src="img/communications_handout.png" width="200px"/>](https://rawgit.com/openhatch/open-source-comes-to-campus/master/curriculum/handouts/Communications_Handout.pdf)
+#### Communications handout
+
+[<img src="img/communications_handout.png" width="200px"/>](https://rawgit.com/openhatch/open-source-comes-to-campus/master/curriculum/handouts/Communications_Handout.pdf) ([same on wiki](https://openhatch.org/wiki/Communication))
 
 
 ### 11:30 pm to 12:00 pm / Hands On Git
@@ -30,6 +35,8 @@ Watch the tools video:
 > Git is a powerful version control language that allows distributed teams of
 > developers to collaborate on large software projects. A brief workshop will
 > introduce students to the use of this tool.
+
+#### Practicing Git handout
 
 [<img src="img/practicing_git_student_handout.png" width="200px"/>](https://rawgit.com/openhatch/open-source-comes-to-campus/master/curriculum/handouts/Practicing_Git_Student_Handout.pdf)
 
@@ -44,6 +51,19 @@ Watch the tools video:
 > contributing solutions. Project leads and mentors will be available to provide
 > assistance throughout the workshop.
 
+#### Finding projects handout
+
+[On wiki](https://openhatch.org/wiki/Open_Source_Comes_to_Campus/Curriculum/Finding_a_Project)
+
 [<img src="img/finding_projects_handout.png" width="200px"/>](https://rawgit.com/openhatch/open-source-comes-to-campus/master/curriculum/handouts/FindingProjects_Student_Handout.odt)
 
+#### Contributions walkthrough
+
 [<img src="img/walkthrough.png" width="200px">](https://rawgit.com/openhatch/open-source-comes-to-campus/master/curriculum/handouts/walkthrough.pdf)
+
+Ideas:
+
+- [improving install instructions](http://openhatch.github.io/open-source-comes-to-campus/lessons/newcomer-tasks/setup/)
+- [reproducing bugs](https://openhatch.org/w/index.php?title=Open_Source_Comes_to_Campus/Newcomer_Tasks/Issue_Tracker_Cleaning)
+- [increasing accessibility of websites)](http://openhatch.github.io/open-source-comes-to-campus/lessons/newcomer-tasks/accessibility/)
+
