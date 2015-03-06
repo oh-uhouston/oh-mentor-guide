@@ -40,6 +40,8 @@ Watch the tools video:
 
 [<img src="img/practicing_git_student_handout.png" width="200px"/>](https://rawgit.com/openhatch/open-source-comes-to-campus/master/curriculum/handouts/Practicing_Git_Student_Handout.pdf)
 
+| [Students](https://openhatch.org/wiki/Open_Source_Comes_to_Campus/Practicing_Git/Students) | [Instructors](https://openhatch.org/wiki/Open_Source_Comes_to_Campus/Practicing_Git/Instructors) |
+
 ### 12:00 pm to 1:00 pm / Lunch Break
 
 > Lunch will be provided. Vegetarian, vegan, and other dietary options will be
@@ -82,3 +84,8 @@ What are some kinds of contributions can you make?
  - Creating tutorials
  - ... and, yes, coding.
 
+
+#### Closing
+
+- Progress so far
+- More [opportunities](https://openhatch.org/wiki/Opportunities) to participate
